@@ -8,7 +8,7 @@ recommend fixes — reducing a 2-3 hour manual task to minutes.
 
 ## Tech Stack
 - Backend: Node.js, Express.js
-- Database: MongoDB Atlas
+- Database: SQLite (better-sqlite3)
 - AI Reasoning: Google Gemini API (gemini-2.5-flash)
 - Frontend: HTML, CSS, JavaScript
 - Deployment: Render / Railway
