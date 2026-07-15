@@ -1,0 +1,9 @@
+[
+  { "timestamp": "2026-07-15T10:32:11Z", "method": "GET", "endpoint": "/api/payment", "statusCode": 500, "responseTimeMs": 4210, "message": "Database connection timeout" },
+  { "timestamp": "2026-07-15T10:32:45Z", "method": "GET", "endpoint": "/api/payment", "statusCode": 500, "responseTimeMs": 3980, "message": "Database connection timeout" },
+  { "timestamp": "2026-07-15T10:33:02Z", "method": "POST", "endpoint": "/api/orders", "statusCode": 200, "responseTimeMs": 210, "message": "OK" },
+  { "timestamp": "2026-07-15T10:33:45Z", "method": "GET", "endpoint": "/api/payment", "statusCode": 500, "responseTimeMs": 4300, "message": "Database connection timeout" },
+  { "timestamp": "2026-07-15T10:34:10Z", "method": "GET", "endpoint": "/api/payment", "statusCode": 500, "responseTimeMs": 4150, "message": "Database connection timeout" },
+  { "timestamp": "2026-07-15T10:35:00Z", "method": "GET", "endpoint": "/api/payment", "statusCode": 503, "responseTimeMs": 5000, "message": "Service unavailable - connection pool exhausted" },
+  { "timestamp": "2026-07-15T10:36:02Z", "method": "GET", "endpoint": "/api/payment", "statusCode": 200, "responseTimeMs": 180, "message": "OK - recovered" }
+]
